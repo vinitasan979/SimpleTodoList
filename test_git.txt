@@ -1,1 +1,3 @@
 Code path unit 3 
+
+Lab : Intro to GitHub
